@@ -1,0 +1,40 @@
+.orderDetails{
+    margin:0px 10px;
+}
+.wrapperOrder{
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    // background-color: red;
+    width: 33%;
+    margin-right: 50px;
+
+}
+.rowWrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.details{
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.address{
+    // width: 53%;
+}
+.headerColor{
+    color:"#020202"
+}
+.rowHeaderColor{
+    color:#626262;
+}
+.itemHeader{
+    color: #626262;
+    font-size: 17px;
+    font-weight: 600;
+}
+a{
+    // color:rgb(181 226 240);
+    color:rgb(134 199 219);
+    font-weight: 500;
+}
